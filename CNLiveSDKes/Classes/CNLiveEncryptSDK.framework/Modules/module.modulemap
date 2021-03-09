@@ -1,0 +1,6 @@
+framework module CNLiveEncryptSDK {
+  umbrella header "CNLiveEncryptSDK.h"
+
+  export *
+  module * { export * }
+}

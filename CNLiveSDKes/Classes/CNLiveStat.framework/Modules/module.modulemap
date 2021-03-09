@@ -1,0 +1,6 @@
+framework module CNLiveStat {
+  umbrella header "CNLiveStat.h"
+
+  export *
+  module * { export * }
+}

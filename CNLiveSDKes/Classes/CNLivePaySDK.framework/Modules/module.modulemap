@@ -1,0 +1,6 @@
+framework module CNLivePaySDK {
+  umbrella header "CNLivePaySDK.h"
+
+  export *
+  module * { export * }
+}
